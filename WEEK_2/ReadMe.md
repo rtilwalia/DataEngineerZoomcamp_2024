@@ -10,7 +10,7 @@ Some basic things to do before starting working on mage pipelines
 1. Clone Mage repo from here - https://github.com/mage-ai/mage-zoomcamp.git 
 3. Run the docker compose
 4. Change the .yaml file in mage
-5. Start working with the pipeline
+5. Start working on the pipeline
 
 **Flow of ETL Pipeline**
 
