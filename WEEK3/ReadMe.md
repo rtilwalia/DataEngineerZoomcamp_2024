@@ -9,6 +9,7 @@ Establish an ETL pipeline on Mage to process and export TLC trip data.
 
 <img width="671" alt="Screenshot 2024-02-11 at 11 44 52 PM" src="https://github.com/rtilwalia/DataEngineerZoomcamp_2024/assets/32938713/3b76c53f-beb3-4a93-b5d4-81ea924ec7a9">
 
+
 Create a scalable Data Warehouse on GCP using BigQuery.
 Explore the benefits and internal workings of BigQuery.
 Implement partitioning and clustering for query optimization.
