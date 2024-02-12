@@ -15,29 +15,30 @@ Implement partitioning and clustering for query optimization.
 Analyze query execution time and identify potential improvements.
 
 **Technical Components:**
-Data Source: NYC Green Taxi Trip Record Data (2022) - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
-ETL Pipeline: Mage
-Data Warehouse: BigQuery
-Data Processing & Transformation: Python scripts
-Querying: SQL within BigQuery
-Key Achievements:
+1. Data Source: NYC Green Taxi Trip Record Data (2022) - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+2. ETL Pipeline: Mage
+3. Data Warehouse: BigQuery
+4. Data Processing & Transformation: Python scripts
+5. Querying: SQL within BigQuery
 
-Successful creation of an ETL pipeline to load green taxi data into BigQuery.
-Implementation of external table connections in BigQuery.
-Design of partitioned tables based on pickup date for efficient data retrieval.
-Utilization of locationID-based clustering to optimize query performance.
-Analysis of query execution time to identify and address performance bottlenecks.
-Further Exploration:
+**Key Achievements:**
+1. Successful creation of an ETL pipeline to load green taxi data into BigQuery.
+2. Implementation of external table connections in BigQuery.
+3. Design of partitioned tables based on pickup date for efficient data retrieval.
+4. Utilization of locationID-based clustering to optimize query performance.
+5. Analysis of query execution time to identify and address performance bottlenecks.
 
+
+**Further Exploration:**
 This project serves as a springboard for further investigation into Data Warehousing and BigQuery:
-Advanced BigQuery features (materialized views, custom UDFs)
-Integration with BI tools for visualization and reporting
-Real-world application of insights derived from taxi data
-Contributions Welcome:
+1. Advanced BigQuery features (materialized views, custom UDFs)
+2. Integration with BI tools for visualization and reporting
+3. Real-world application of insights derived from taxi data
 
-Additional Resources:
-Google BigQuery Documentation: https://cloud.google.com/bigquery/docs/
-NYC TLC Trip Record Data: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+**Additional Resources:**
+1. Google BigQuery Documentation: https://cloud.google.com/bigquery/docs/
+2. NYC TLC Trip Record Data: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
 
 
