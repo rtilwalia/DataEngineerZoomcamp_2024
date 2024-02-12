@@ -1,4 +1,4 @@
-**Data Warehouse: NYC Green Taxi Insights with BigQuery**
+## Data Warehouse: NYC Green Taxi Insights with BigQuery
 This repository details an ETL pipeline and Data Warehouse built for the NYC Green Taxi Trip Record Data (2022), designed to unlock valuable insights through BigQuery on Google Cloud Platform.
 
 **Project Background:**
