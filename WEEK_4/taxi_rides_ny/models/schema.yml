@@ -1,0 +1,18 @@
+version: 2
+
+sources:
+  - name: staging
+    database: homewrok-project
+     # For postgres:
+      #database: production
+    schema: trips_rides_ny
+
+      # loaded_at_field: record_loaded_at
+    tables:
+      - name: green_taxi_2019_2020_data
+      - name: yellow_taxi_2019_2020_data
+         # freshness:
+           # error_after: {count: 6, period: hour}
+
+
+   
