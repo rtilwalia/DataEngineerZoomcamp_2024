@@ -14,6 +14,7 @@
 
 ### Rising wave portal
 
-![Screenshot 2024-03-14 at 1 16 14 AM](https://github.com/rtilwalia/DataEngineerZoomcamp_2024/assets/32938713/70c99e69-b823-4713-b7be-4ca31f6fc2fd)
+![image](https://github.com/rtilwalia/DataEngineerZoomcamp_2024/assets/32938713/908a7430-7981-4d8e-9cb3-1a910ec7e7d1)
+
 
 
